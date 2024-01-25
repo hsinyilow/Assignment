@@ -1,0 +1,11 @@
+#sidebar{
+    width: 0;
+    height: 100%;
+    position: fixed;
+    overflow-x: hidden;
+    background-color:  #2F323A;
+    color: white;
+}
+
+
+
