@@ -1,3 +1,5 @@
+
+//Post element
 function WebComp(){
     return (
         <div>
@@ -11,6 +13,7 @@ function WebComp(){
 
 export default WebComp;
 
+//Sidebar
 export function Sidebar(){
     return(
         <h4>Category 1</h4>

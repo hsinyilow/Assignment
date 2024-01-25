@@ -1,8 +1,13 @@
 .main{
     top: 0;
     width: 100%;
+    
 }
 
-.sidebar{
-    width: 10%;
+.postSection{
+    margin-left: 1%;
+}
+body{
+    margin: 0;
+    background-color:  #F3EFF5;
 }

@@ -13,12 +13,12 @@ function handleNav(){
     else{
         if(sideOpen){
             nav.style.width = "0";
-            main.style.marginLeft = "0";
+            main.style.marginLeft = "1%";
             sideOpen = false;
         }
         else{
             nav.style.width = "10%";
-            main.style.marginLeft = "10%";
+            main.style.marginLeft = "11%";
             sideOpen = true;
         }
     }

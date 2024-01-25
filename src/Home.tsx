@@ -23,7 +23,7 @@ function Home() {
       <Sidebar/>
       </div>
 
-      <div id="main">
+      <div id="main" className="postSection">
 
         <div>
           <h2>Welcome to web forum</h2>
